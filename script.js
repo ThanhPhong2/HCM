@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         delay: 1.5 
     });
 
-    // GSAP ScrollTrigger for Biography
+    // GSAP ScrollTrigger for Biography/
     gsap.from('.bio-image', { 
         opacity: 0, 
         x: -120, 
